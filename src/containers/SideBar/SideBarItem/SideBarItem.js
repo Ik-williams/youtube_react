@@ -13,7 +13,7 @@ export function SideBarItem(props) {
                 <span>{props.label}</span>
             </div>
         </Menu.Item>
-    );
+    )
 }
 
 //export default SideBarItem;
